@@ -6,7 +6,7 @@
 
 // the setup function runs once when you press reset or power the board
 void setup() {
-
+//husk og øve dig i at skrive
 }
 
 // the loop function runs over and over again until power down or reset
